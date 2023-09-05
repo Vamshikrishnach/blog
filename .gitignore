@@ -275,5 +275,4 @@ dump.rdb
 blogproject/media/
 
 .pytest_cache/
-
 .env
